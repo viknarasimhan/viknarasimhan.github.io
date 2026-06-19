@@ -2,4 +2,9 @@
 .idea/
 .vscode/
 *.zip
+*.iml
+.mvn/
+src/
+target/
+HELP.md
 docs/serve.js
